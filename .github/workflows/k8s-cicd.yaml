@@ -6,8 +6,8 @@ on:
       - master
 
 env:
-  DOCKER_IMAGE_NAME: ctse1
-  POD_DEPLOYMENT_NAME: ctseapp1-deployment
+  DOCKER_IMAGE_NAME: ctse-user
+  POD_DEPLOYMENT_NAME: ctseapp-deployment
 
 jobs:
   deploy:
