@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DOCKER_IMAGE_NAME: yasmikash/userapp
+  DOCKER_IMAGE_NAME: userapp
   POD_DEPLOYMENT_NAME: ctseapp-deployment
 
 jobs:
